@@ -1,7 +1,33 @@
+*{
+    margin: 0;
+}
 h1{
     color: red;
     background-color: aqua;
+    
+    
+    
 }
 img{
     width: 800px;
+}
+.red{
+    font-family: sans-serif;
+    border: 5px solid rgb(123, 10, 93);
+    border-radius: 50px;
+    margin: 50px;
+    padding: 10px;
+    font-size: 15px;
+    width: 100px;
+    text-align: center;
+    position: relative;
+    left: 1400px;
+    top: 10px;
+    box-shadow: 5px 10px 30px rgb(190, 26, 26) ;
+    position: fixed;
+    
+    
+    
+
+
 }
